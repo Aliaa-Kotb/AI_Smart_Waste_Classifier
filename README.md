@@ -284,13 +284,11 @@ AI_Waste_Classifier/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Waste-Classifier.git
-```
-
+[git clone https://github.com/Aliaa-Kotb/Ai_Smart_Waste_Classifier.git]
 Move into the project directory:
 
 ```bash
-cd AI-Waste-Classifier
+cd Ai_Smart_Waste_Classifier
 ```
 
 ---
